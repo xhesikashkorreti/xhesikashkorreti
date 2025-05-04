@@ -2,7 +2,7 @@
 I am a Software Engineer intern passionate about building useful and creative applications.
 ___
 
-##Skilla
+##Skills
 - **Languages**: Python, JavaScript, HTML, CSS
 - **Frameworks**: Django, React (learning), Bootstrap
 - **Tools**: Git, GitHub, VS Code
