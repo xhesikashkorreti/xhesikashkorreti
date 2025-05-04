@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there, I am Xhesika!👋
+I am a Software Engineer intern passionate about building useful and creative applications.
+___
 
-<!--
-**xhesikashkorreti/xhesikashkorreti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##Skilla
+- **Languages**: Python, JavaScript, HTML, CSS
+- **Frameworks**: Django, React (learning), Bootstrap
+- **Tools**: Git, GitHub, VS Code
+- **Current Learning**: REST APIs, React, and cloud deployment
+___
 
-Here are some ideas to get you started:
+## Projects
+Here are some of my projects:
+- **[Blog Platform](https://github.com/xhesikashkorreti/blog-platform)** - Full featured blog using Django
+___
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Let's Connect
+-**Email:** xhesika.sh@gmail.com
+
+Thanks for visiting!
+
